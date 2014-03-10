@@ -20,7 +20,7 @@ import org.apache.cordova.CordovaActivity;
 
 import android.os.Bundle;
 
-public class EmployeeDirectoy extends CordovaActivity {
+public class EmployeeDirectory extends CordovaActivity {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
